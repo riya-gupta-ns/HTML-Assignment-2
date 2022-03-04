@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 63.1 (101010) - https://sketch.com -->
+    <title>4B02D0E6-E99F-436E-AF3A-AF07F44B10D8</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <circle id="path-1" cx="16" cy="16" r="16"></circle>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Favorites" transform="translate(-641.000000, -337.000000)">
+            <g id="Vendor-Blocks" transform="translate(191.000000, 221.000000)">
+                <g id="Group-2-Copy-9">
+                    <g id="icCorporateVendor2" transform="translate(450.000000, 116.000000)">
+                        <g id="icCorporateVendor">
+                            <mask id="mask-2" fill="white">
+                                <use xlink:href="#path-1"></use>
+                            </mask>
+                            <use id="Oval-Copy-5" fill="#A4E1EC" xlink:href="#path-1"></use>
+                            <g id="Group-2" mask="url(#mask-2)">
+                                <g transform="translate(4.923077, 6.564103)">
+                                    <path d="M15.8331731,0 C16.5582238,0 17.1459936,0.587769764 17.1459936,1.31282051 L17.1459936,7.22051282 C17.1459936,7.94556357 16.5582238,8.53333333 15.8331731,8.53333333 L6.64342949,8.53333333 C5.91837874,8.53333333 5.33060897,7.94556357 5.33060897,7.22051282 L5.33060897,1.31282051 C5.33060897,0.587769764 5.91837874,0 6.64342949,0 L15.8331731,0 Z M15.8331731,1.31282051 L6.64342949,1.31282051 L6.64342949,7.22051282 L15.8331731,7.22051282 L15.8331731,1.31282051 Z" id="Rectangle" fill="#515262" fill-rule="nonzero"></path>
+                                    <rect id="Rectangle" fill="#515262" fill-rule="evenodd" x="0.407532051" y="3.93846154" width="21.0051282" height="13.1282051"></rect>
+                                    <polygon id="Path-16" fill="#737689" fill-rule="evenodd" points="0 3.63429487 21.7934295 3.63429487 21.7934295 8.53333333 11.2294872 9.65112179 0 8.53333333"></polygon>
+                                    <rect id="Rectangle" fill="#FFFFFF" fill-rule="evenodd" x="9.59727564" y="8.20512821" width="2.62564103" height="2.95384615"></rect>
+                                    <circle id="Oval" fill="#515262" fill-rule="evenodd" cx="10.9100962" cy="9.18974359" r="1"></circle>
+                                    <rect id="Rectangle" fill="#515262" fill-rule="evenodd" x="10.581891" y="9.18974359" width="1" height="1.31282051"></rect>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

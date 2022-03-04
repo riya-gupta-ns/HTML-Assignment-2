@@ -1,0 +1,419 @@
+#vendors{
+	font-size: 16px;
+  font-weight: 600;
+	color: #4aabbb;
+	font-family: Helvetica;
+	padding-right: 5px;
+	
+}
+#imgtri{
+width: 6px;
+  height: 3px;
+  background-color: white;
+  color: #4aabbb;
+  margin-right: 12px;
+}
+#events{	
+  font-size: 16px;
+  font-weight: 600;
+	color: #4aabbb;
+	font-family: Helvetica;
+	/*padding-right: 5px;*/
+	
+}
+#contact{
+  font-size: 16px;
+  font-weight: 600;
+	color: #4aabbb;
+	font-family: Helvetica;
+	padding-right: 7px;
+}
+#events1{
+	font-size: 16px;
+  font-weight: 600;
+	color: #4aabbb;
+	font-family: Helvetica;
+	margin-top: 15px;
+	/*padding-right: 5px;*/
+}
+.notification {
+  background-color: white;
+  color: white;
+  /*padding: 15px 26px;*/
+  position: relative;
+   margin-right: 15px;
+}
+.enclass{
+ margin-right: 12px;
+ margin-top: 20px;
+ padding-top: 10px;
+}
+.notification .badge {
+  position: absolute;
+  top: -8px;
+  right: -6px;
+  /*padding: 3px 3px*/;
+  border-radius: 80%;
+  background: hotpink;
+  color: white;
+}
+
+.Path-2-Copy{
+  width: 6px;
+  height: 4px;
+  background-color: #4aabbb;
+ 
+}
+.drop{
+	background-color: white;
+	color:#4aabbb;
+}
+
+#favorites{
+  font-family: 	Monaco;
+  font-size: 24px;
+  font-weight: 600;
+  color: #556d7d;
+  margin-left: 10%;
+}
+
+.Home-Favorites {
+  font-family: Poppins;
+  font-size: 14px;
+  font-weight: 600;
+   margin-left: 10%;
+  color: #556d7d;
+}
+.Home-Favorites .text-style-1 {
+  font-weight: normal;
+  color: rgba(85, 109, 125, 0.5);
+}
+.icon{
+	width: 50px;
+	height: 10px;
+	margin-left: 85%;
+}
+.icGridView{
+  width: 45px;
+  height: 45px;
+}
+.Oval {
+  width: 37px;
+  height: 37px;
+ /* margin: 59px 190px 30px 10px;
+  padding: 18px 15px 17px 16px;
+ */ 
+
+  background-color: red;
+  border-radius: 50%;
+  margin-top: -46px;
+  margin-left: 170%;
+}
+.Oval1{
+	width: 26px;
+  height: 26px;
+  border-radius: 50%;
+  margin-left: 15px;
+  background-color: white;
+  margin-top: -125%;
+  position: relative;
+}
+#imgid4{
+	width: 20px;
+  height: 18px;
+  margin-top: -55%;
+  margin-left: 18px;
+ position: relative;
+ border-radius: 70%;
+}
+.circle {
+  float: left;
+  margin-left: 10px;
+  width: 42px;
+  height: 42px;
+  border-radius: 150px;
+  font-size: 16px;
+  color: #fef;
+  text-align: center;
+  background-color: white;
+  position: relative;
+}
+.circle p {
+  margin: 0;
+  transform: translate(-50%, -50%);
+  top: 50%;
+  left: 50%;
+  position: relative;
+}
+.conatiner-fluid{
+	margin-left: 85%;
+	width: 10%;
+}
+
+
+
+
+
+.cardclass{
+	margin-left: 10%;
+	margin-right: 10%;
+	width: 80%;
+	height: 10%;
+}
+.card-horizontal {
+  display: flex;
+  flex: 1 1 auto;
+}
+.card-title{
+  width: 141px;
+  height: 24px;
+  font-family: Poppins;
+  font-size: 20px;
+  font-weight: 600;
+  margin-top: -10px;
+}
+
+#cardsize{
+	/*width: 33%;
+	height: 25%;*/
+	/*width: 412px*/;
+	height: 150px;
+	margin-right: 6px;
+	margin-top: 6px;
+}
+#facestudio{
+	  width: 141px;
+  height: 24px;
+  font-family: Poppins;
+  font-size: 18px
+  font-weight: 600;
+  color: #696969;  
+}
+#imgid1{
+	width: 16px;
+    height: 15px;
+    margin-top: -72px;
+    margin-left: 145px;
+}
+#imgid2{
+	width: 13px;
+  height: 16px;
+}
+#location{
+  width: 88px;
+  height: 19px;
+  font-family: Poppins;
+  font-size: 12px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  color: #696969;
+}
+.photographer{
+	width: 85px;
+  height: 15px;
+  border-radius: 11.5px;
+  background-color: #ecf7f9;
+  text-align: center;
+  margin-top: 2px;
+}
+#photographer1{
+	width: 87px;
+  height: 16px;
+  font-family: Poppins;
+  font-size: 10px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #5b696b;
+}
+.carditems1{
+	margin-top: 7px;
+	width: 100%;
+	height: 28px;
+	background-color: white;
+}
+.Rectangle {
+  /*width: 51px;*/
+  width:  30%;
+  height: 28px;
+  border-radius: 3px;
+  background-color: #df78b0;
+  display: inline-flex;
+}
+.icStarRating {
+  width: 14px;
+  height: 14px;
+  object-fit: contain;
+  margin-left: 5px;
+  margin-bottom: 5px;
+}
+#imgid3{
+	width: 32px;
+  height: 32px;
+  /*object-fit: contain;*/
+  margin-left: 90%;
+  margin-top: -20%;
+  position: relative;
+}
+.review{
+  width: 21px;
+  height: 25px;
+  font-family: Poppins;
+  font-size: 16px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: -0.39px;
+  color: var(--white);
+  margin-top: 20px;
+  margin-left: 5px;
+}
+.-Reviews{
+	width: 83px;
+  height: 23px;
+  font-family: Poppins;
+  font-size: 14px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  color: #696969;
+  margin-left: 10px;
+}
+#imgid{
+	width: 100px;
+	height: 130px;
+	margin-top: 10%;
+	margin-left: 10%;	
+}
+.carditems{
+	width: 100%;
+	height: 25px;
+	background-color: white;
+	flex-direction: row;
+}
+.photographer2{
+	width: 85px;
+  height: 15px;
+  border-radius: 11.5px;
+  background-color: white;
+  text-align: center;
+  margin-top: 2px;
+}
+/*.row{
+	height: 100%;
+}
+*/
+#card-body{
+	text-align: center;
+}
+#img-square-wrapper{
+	height: 5%;
+	width: 20%;
+}
+
+.copyright {
+    float: left;
+}
+
+.social { 
+    float: right;
+}
+
+.footerclass{
+  width: 100%;
+  height: 80px;
+  background-color: white;
+}
+
+
+
+
+
+
+
+
+
+#vendor{
+	width: 391px;
+  height: 36px;
+  font-family: Poppins;
+  font-size: 14px;
+  font-weight: normal;
+  color: #556d7d;
+  padding-right: 5px;
+  margin-right: 1%;
+}
+#event{
+	width: 391px;
+  height: 36px;
+  font-family: Poppins;
+  font-size: 14px;
+  font-weight: normal;
+  color: #556d7d;
+  padding-right: 5px;
+  margin-right: 1%;
+}
+#term{
+	width: 391px;
+  height: 36px;
+  font-family: Poppins;
+  font-size: 14px;
+  font-weight: normal;
+  color: #556d7d;
+  padding-right: 5px;
+  margin-right: 1%;
+}
+#contactus{
+	width: 391px;
+  height: 36px;
+  font-family: Poppins;
+  font-size: 14px;
+  font-weight: normal;
+  color: #556d7d;
+  padding-right: 5px;
+  margin-right: 1%;
+}
+.footeritemclass{
+	text-align: right;
+	margin-top: -2.5%;
+	margin-right: 8%;
+
+}
+.fa-facebook {
+            background: #007bb5;
+            color: white;
+            border-radius: 50%;
+            margin-right: 1%;
+        }
+  
+        .fa-instagram {
+            background: #cb2027;
+            color: white;
+            border-radius: 50%;
+            margin-right: 1%;
+        }
+  
+        .fa-youtube {
+            background: #ff5700;
+            color: white;
+            border-radius: 50%;
+            margin-right: 1%;
+        }
+  
+        .fa {
+            padding: 10px;
+            font-size: 40px;
+            width:40px;
+            text-decoration: none;
+            
+        }
+.img-fluid{
+	margin-left: 8%;
+
+}

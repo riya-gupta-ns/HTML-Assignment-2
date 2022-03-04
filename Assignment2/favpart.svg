@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="73px" height="73px" viewBox="0 0 73 73" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 63.1 (101010) - https://sketch.com -->
+    <title>7A116565-8112-432C-B7FD-B8642EDDEBAA</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <circle id="path-1" cx="25.6800016" cy="25.6800016" r="25.6800016"></circle>
+        <filter x="-32.1%" y="-32.1%" width="164.3%" height="164.3%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="5.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.104922421 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Favorites" transform="translate(-1605.000000, -128.000000)">
+            <g id="icGridView" transform="translate(1616.000000, 139.000000)">
+                <g id="Oval">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                </g>
+                <path d="M24.2378947,26.9473684 C24.6926316,26.9473684 25.0526316,27.3073684 25.0526316,27.7621053 L25.0526316,27.7621053 L25.0526316,34.1852632 C25.0526316,34.64 24.6926316,35 24.2378947,35 L24.2378947,35 L17.8147368,35 C17.36,35 17,34.64 17,34.1852632 L17,34.1852632 L17,27.7621053 C17,27.3073684 17.36,26.9473684 17.8147368,26.9473684 L17.8147368,26.9473684 Z M34.1852632,26.9473684 C34.64,26.9473684 35,27.3073684 35,27.7621053 L35,27.7621053 L35,34.1852632 C35,34.64 34.64,35 34.1852632,35 L34.1852632,35 L27.7621053,35 C27.3073684,35 26.9473684,34.64 26.9473684,34.1852632 L26.9473684,34.1852632 L26.9473684,27.7621053 C26.9473684,27.3073684 27.3073684,26.9473684 27.7621053,26.9473684 L27.7621053,26.9473684 Z M24.2378947,17 C24.6926316,17 25.0526316,17.36 25.0526316,17.8147368 L25.0526316,17.8147368 L25.0526316,24.2378947 C25.0526316,24.6926316 24.6926316,25.0526316 24.2378947,25.0526316 L24.2378947,25.0526316 L17.8147368,25.0526316 C17.36,25.0526316 17,24.6926316 17,24.2378947 L17,24.2378947 L17,17.8147368 C17,17.36 17.36,17 17.8147368,17 L17.8147368,17 Z M34.1852632,17 C34.64,17 35,17.36 35,17.8147368 L35,17.8147368 L35,24.2378947 C35,24.6926316 34.64,25.0526316 34.1852632,25.0526316 L34.1852632,25.0526316 L27.7621053,25.0526316 C27.3073684,25.0526316 26.9473684,24.6926316 26.9473684,24.2378947 L26.9473684,24.2378947 L26.9473684,17.8147368 C26.9473684,17.36 27.3073684,17 27.7621053,17 L27.7621053,17 Z" id="icGrid" fill="#DF78B0" fill-rule="nonzero"></path>
+            </g>
+        </g>
+    </g>
+</svg>
